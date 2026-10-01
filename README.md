@@ -9,7 +9,9 @@ Aplicação web em Python para **cadastrar vendas e acompanhar os resultados em 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-<!-- VERSAO_ONLINE -->
+### 🔗 [Testar o sistema online](https://sistema-vendas-alessandro.streamlit.app/)
+
+[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sistema-vendas-alessandro.streamlit.app/)
 
 ![Tela do sistema de vendas](imagens/dashboard.png)
 
@@ -49,6 +51,8 @@ sistema-vendas/
 ├── requirements.txt   # bibliotecas necessárias
 └── imagens/           # print da aplicação
 ```
+
+A versão online está publicada no **Streamlit Community Cloud**. As vendas cadastradas por lá ficam salvas até o app reiniciar.
 
 ## ▶️ Como executar
 
